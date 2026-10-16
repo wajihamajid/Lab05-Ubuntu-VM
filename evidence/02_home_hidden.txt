@@ -1,0 +1,16 @@
+total 64
+drwxr-x--- 9 wajihamajid wajihamajid 4096 Oct 16 18:13 .
+drwxr-xr-x 3 root        root        4096 Sep 15 01:05 ..
+-rw------- 1 wajihamajid wajihamajid 4458 Oct 10 17:44 .bash_history
+-rw-r--r-- 1 wajihamajid wajihamajid  220 Feb 13  2026 .bash_logout
+-rw-r--r-- 1 wajihamajid wajihamajid 3771 Feb 13  2026 .bashrc
+drwx------ 2 wajihamajid wajihamajid 4096 Sep 15 13:48 .cache
+-rw-rw-r-- 1 wajihamajid wajihamajid  188 Oct 10 13:19 .gitconfig
+-rw------- 1 wajihamajid wajihamajid   20 Sep 19 12:57 .lesshst
+drwx------ 3 wajihamajid wajihamajid 4096 Sep 19 11:34 .local
+-rw-r--r-- 1 wajihamajid wajihamajid  807 Feb 13  2026 .profile
+drwx------ 2 wajihamajid wajihamajid 4096 Oct 10 11:51 .ssh
+drwxrwxr-x 3 wajihamajid wajihamajid 4096 Oct 10 17:52 Assignment01
+drwxrwxr-x 3 wajihamajid wajihamajid 4096 Sep 19 18:19 CC_Lab2_Practice
+drwxrwxr-x 3 wajihamajid wajihamajid 4096 Oct 10 11:54 Gitea
+drwxrwxr-x 5 wajihamajid wajihamajid 4096 Oct 16 18:13 Lab05-Ubuntu-VM
